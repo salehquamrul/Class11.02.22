@@ -1,0 +1,83 @@
+h1 {
+	color: goldenrod;
+	text-align: center;
+	border-bottom: 1px dotted goldenrod;
+}
+
+.menu {
+	text-align: right;
+	padding: 10px 0px 10px 0px;
+	/*margin: 0px 20px 0px 0px;*/
+
+}
+
+.menu-item {
+	margin: 0px 20px 0px 0px;
+}
+
+#bol-attr{
+	color: lightcoral;
+}
+
+#solidcolor {
+	color: green;
+	font-size: 40px;
+}
+
+#hexcolor {
+	color: #2fc350;
+	font-size: 40px;
+}
+
+#rgbcolor {
+	color: rgb(255, 0, 0);
+	font-size: 40px;
+}
+
+#rgbacolor {
+	color: rgba(255, 0, 0, 0.5);
+	font-size: 40px;
+}
+
+.pxsize {
+	width: 100px;
+	height: 100px;
+	background-color: lightgray;
+	margin-bottom: 10px;
+}
+
+.ptsize {
+	width: 100pt;
+	height: 100pt;
+	background-color: lightcoral;
+	margin-bottom: 10px;
+}
+
+.emsize {
+	width: 10em;
+	height: 10em;
+	background-color: lightgreen;
+	margin-bottom: 10px;
+}
+
+.remsize {
+	width: 10rem;
+	height: 10rem;
+	background-color: lightslategrey;
+	margin-bottom: 10px;
+}
+
+.persize {
+	width: 20%;
+	height: 50px;
+	background-color: lightskyblue;
+	margin-bottom: 10px;
+}
+
+table{
+	border: 1px solid black;
+}
+
+table th, td{
+	border: 1px solid black;
+}
